@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3885405616
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: decompositionreaction
+      Dependencies: {}
